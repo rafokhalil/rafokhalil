@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafokhalil&label=Profile%20views&color=0e75b6&style=flat" alt="rafokhalil" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rafokhalil" target="blank"><img src="https://img.shields.io/twitter/follow/rafokhalil?logo=twitter&style=for-the-badge" alt="rafokhalil" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rafokhalill" target="blank"><img src="https://img.shields.io/twitter/follow/rafokhalil?logo=twitter&style=for-the-badge" alt="rafokhalil" /></a> </p>
 
 - 🔭 I’m currently working on [Social Network Project](https://github.com/rafokhalil/SocialNetwork.git)
 
